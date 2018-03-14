@@ -1,0 +1,6 @@
+C:\test\BarnardosTest\BarnardosTest\bin\Debug\BarnardosTest.exe.config
+C:\test\BarnardosTest\BarnardosTest\bin\Debug\BarnardosTest.exe
+C:\test\BarnardosTest\BarnardosTest\bin\Debug\BarnardosTest.pdb
+C:\test\BarnardosTest\BarnardosTest\obj\Debug\BarnardosTest.exe
+C:\test\BarnardosTest\BarnardosTest\obj\Debug\BarnardosTest.pdb
+C:\test\BarnardosTest\BarnardosTest\obj\Debug\BarnardosTest.csprojResolveAssemblyReference.cache
